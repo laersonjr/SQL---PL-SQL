@@ -119,7 +119,7 @@ SELECT * FROM v_funcionario;
 -- ALTER VIEW
 	create or replace VIEW v_funcionario
 	AS 
-	SELECT ID,NOME FROM aluno.FUNCIONARIOS;
+	SELECT ID,NOME FROM FUNCIONARIOS;
 
 
 -- 
