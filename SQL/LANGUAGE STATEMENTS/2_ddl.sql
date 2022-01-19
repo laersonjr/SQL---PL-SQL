@@ -110,7 +110,7 @@ select * from aluno.funcionarios;
 
 CREATE VIEW v_funcionario
 	AS
-	SELECT * FROM FUNCIONARIOS
+	SELECT * FROM FUNCIONARIOS;
 
 
 SELECT * FROM v_funcionario;
