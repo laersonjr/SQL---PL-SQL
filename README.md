@@ -2,7 +2,7 @@
 
 Oracle Developer SQL e PL/SQL
 
-Curso voltado para aprendizado na linguagem SQL E PL/SQL, no desenvolvimento de querys ad-hoc, select,update,delete,insert,views, procedures,  functions, triggers e cursores e packages , administrar e executar tarefas  relacionadas a Banco de dados e executar projetos de DB.
+Curso voltado para aprendizado na linguagem SQL E PL/SQL, no desenvolvimento de querys ad-hoc, select, update, delete, insert, views, procedures, functions, triggers e cursores e packages, administrar e executar tarefas relacionadas a Banco de dados e executar projetos de DB.
 
 Apresentando conteúdo abordado e conhecimento adquirido:
 
